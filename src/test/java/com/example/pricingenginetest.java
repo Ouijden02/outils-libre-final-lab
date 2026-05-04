@@ -43,4 +43,4 @@ public class PricingEngineTest {
         double result = engine.calculate(50, 3, "REGULAR", "");
         assertEquals(178.5, result, 0.01, "3 items x $50 + 19% tax");
     }
-}git add .
+}
